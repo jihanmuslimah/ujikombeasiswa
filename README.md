@@ -15,7 +15,7 @@ Untuk menjalankan perintah formulir pendaftaran beasiswa ini, ikuti langkah-lang
 2. Halaman "Pilihan Beasiswa" anda dapat membaca informasi tentang kedua jenis beasiswa dan jika ingin mendaftar silahkan klik tombol "Daftar Sekarang"
    sesuai dengan jeis beasiswa yang dipilih.
 3. Halaman "Form Pendaftaran" untuk mengisi formulir pendaftaran. Email yang anda masukkan akan digunakan untuk mengidentifikasi jenis beasiswa dan mengisi nama dan IPK secara otomatis.
-   Perhatikan bahwa email "jihanm5403@gmail.com" akan memberikan IPK yang memungkinkan pendaftaran, sedangkan email "jaynudin@gmailcom" akan memunculkan peringatan.
+   Perhatikan bahwa email "jihanm5403@gmail.com" akan memberikan IPK yang memungkinkan pendaftaran, sedangkan email "jaynudin@gmail.com" akan memunculkan peringatan.
 4. Setelah engisi formulir pendaftaran, anda dapat mengunggah berkas terkait (seperti transkip nilai). Tombol "Daftar" akan otomatis aktif jika syarat IPK terpenuhi.
 5. Pada halaman "Hasil" anda dapat melihat daftar peserta pendaftar beserta detailnya. Untuk Status awalnya "belum terverifikasi"
 
